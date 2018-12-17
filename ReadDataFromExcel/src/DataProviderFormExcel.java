@@ -40,7 +40,7 @@ public class DataProviderFormExcel extends DriverSettings {
 	}
 
 	@DataProvider(name = "FacebookForm")
-	public Object[][] passDate()  {
+	public Object[][] passData()  {
 
 		ExcelDataConfig cfg = new ExcelDataConfig(EXCELPATH);
 		// excel sheet index value
