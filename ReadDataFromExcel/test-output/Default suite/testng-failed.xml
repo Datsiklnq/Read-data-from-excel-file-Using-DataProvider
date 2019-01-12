@@ -5,8 +5,10 @@
     <classes>
       <class name="DataProviderFormExcel">
         <methods>
-          <include name="sFormValidation"/>
+          <include name="validationUrl"/>
           <include name="setUp"/>
+          <include name="reportGeneration"/>
+          <include name="validationUrlNumberTwo"/>
         </methods>
       </class> <!-- DataProviderFormExcel -->
     </classes>

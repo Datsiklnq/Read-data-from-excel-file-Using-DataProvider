@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+<testng-results skipped="0" failed="2" ignored="0" total="8" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24117" started-at="2018-12-15T13:52:38Z" finished-at="2018-12-15T13:53:02Z">
+  <suite name="Default suite" duration-ms="26130" started-at="2019-01-12T13:36:00Z" finished-at="2019-01-12T13:36:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24117" started-at="2018-12-15T13:52:38Z" finished-at="2018-12-15T13:53:02Z">
+    <test name="Default test" duration-ms="26130" started-at="2019-01-12T13:36:00Z" finished-at="2019-01-12T13:36:26Z">
       <class name="DataProviderFormExcel">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:DataProviderFormExcel@1d8db5a]" name="setUp" is-config="true" duration-ms="10565" started-at="2018-12-15T13:52:38Z" finished-at="2018-12-15T13:52:48Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DataProviderFormExcel@1943d71]" name="setUp" is-config="true" duration-ms="10504" started-at="2019-01-12T13:36:00Z" description="Check driver settings" finished-at="2019-01-12T13:36:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1d8db5a]" name="sFormValidation" duration-ms="2342" started-at="2018-12-15T13:52:49Z" data-provider="FacebookForm" finished-at="2018-12-15T13:52:51Z">
+        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1943d71]" name="sFormValidation" duration-ms="2555" started-at="2019-01-12T13:36:11Z" description="Enter data to facebook form " data-provider="FacebookForm" finished-at="2019-01-12T13:36:13Z">
           <params>
             <param index="0">
               <value>
@@ -42,7 +42,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sFormValidation -->
-        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1d8db5a]" name="sFormValidation" duration-ms="2135" started-at="2018-12-15T13:52:51Z" data-provider="FacebookForm" finished-at="2018-12-15T13:52:53Z">
+        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1943d71]" name="sFormValidation" duration-ms="2383" started-at="2019-01-12T13:36:13Z" description="Enter data to facebook form " data-provider="FacebookForm" finished-at="2019-01-12T13:36:16Z">
           <params>
             <param index="0">
               <value>
@@ -73,7 +73,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sFormValidation -->
-        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1d8db5a]" name="sFormValidation" duration-ms="2172" started-at="2018-12-15T13:52:53Z" data-provider="FacebookForm" finished-at="2018-12-15T13:52:55Z">
+        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1943d71]" name="sFormValidation" duration-ms="2455" started-at="2019-01-12T13:36:16Z" description="Enter data to facebook form " data-provider="FacebookForm" finished-at="2019-01-12T13:36:18Z">
           <params>
             <param index="0">
               <value>
@@ -104,7 +104,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sFormValidation -->
-        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1d8db5a]" name="sFormValidation" duration-ms="2153" started-at="2018-12-15T13:52:55Z" data-provider="FacebookForm" finished-at="2018-12-15T13:52:57Z">
+        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1943d71]" name="sFormValidation" duration-ms="2458" started-at="2019-01-12T13:36:18Z" description="Enter data to facebook form " data-provider="FacebookForm" finished-at="2019-01-12T13:36:20Z">
           <params>
             <param index="0">
               <value>
@@ -135,7 +135,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sFormValidation -->
-        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1d8db5a]" name="sFormValidation" duration-ms="2159" started-at="2018-12-15T13:52:57Z" data-provider="FacebookForm" finished-at="2018-12-15T13:53:00Z">
+        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1943d71]" name="sFormValidation" duration-ms="2459" started-at="2019-01-12T13:36:20Z" description="Enter data to facebook form " data-provider="FacebookForm" finished-at="2019-01-12T13:36:23Z">
           <params>
             <param index="0">
               <value>
@@ -166,7 +166,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sFormValidation -->
-        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1d8db5a]" name="sFormValidation" duration-ms="2185" started-at="2018-12-15T13:53:00Z" data-provider="FacebookForm" finished-at="2018-12-15T13:53:02Z">
+        <test-method status="PASS" signature="sFormValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderFormExcel@1943d71]" name="sFormValidation" duration-ms="2542" started-at="2019-01-12T13:36:23Z" description="Enter data to facebook form " data-provider="FacebookForm" finished-at="2019-01-12T13:36:25Z">
           <params>
             <param index="0">
               <value>
@@ -197,6 +197,92 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sFormValidation -->
+        <test-method status="FAIL" signature="validationUrl()[pri:0, instance:DataProviderFormExcel@1943d71]" name="validationUrl" duration-ms="14" started-at="2019-01-12T13:36:25Z" description="Example Fail test" finished-at="2019-01-12T13:36:25Z">
+          <exception class="junit.framework.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[www.socialmedia.com]> but was:<[https://www.facebook.com/]>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[junit.framework.ComparisonFailure: expected:<[www.socialmedia.com]> but was:<[https://www.facebook.com/]>
+at junit.framework.Assert.assertEquals(Assert.java:100)
+at junit.framework.Assert.assertEquals(Assert.java:107)
+at DataProviderFormExcel.validationUrl(DataProviderFormExcel.java:51)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- junit.framework.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationUrl -->
+        <test-method status="FAIL" signature="validationUrlNumberTwo()[pri:0, instance:DataProviderFormExcel@1943d71]" name="validationUrlNumberTwo" duration-ms="12" started-at="2019-01-12T13:36:25Z" description="Example Fail test number two" finished-at="2019-01-12T13:36:25Z">
+          <exception class="junit.framework.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[www.instagram.com]> but was:<[https://www.facebook.com/]>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[junit.framework.ComparisonFailure: expected:<[www.instagram.com]> but was:<[https://www.facebook.com/]>
+at junit.framework.Assert.assertEquals(Assert.java:100)
+at junit.framework.Assert.assertEquals(Assert.java:107)
+at DataProviderFormExcel.validationUrlNumberTwo(DataProviderFormExcel.java:60)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- junit.framework.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationUrlNumberTwo -->
+        <test-method status="PASS" signature="reportGeneration()[pri:0, instance:DataProviderFormExcel@1943d71]" name="reportGeneration" is-config="true" duration-ms="313" started-at="2019-01-12T13:36:25Z" description="Check whether Excel Report is Generated" finished-at="2019-01-12T13:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportGeneration -->
       </class> <!-- DataProviderFormExcel -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
