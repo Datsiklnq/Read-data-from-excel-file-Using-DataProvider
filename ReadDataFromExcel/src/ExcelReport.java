@@ -143,6 +143,7 @@ public class ExcelReport {
 			// all
 			// columns
 			sheet.autoSizeColumn(h);
+			
 		}
 
 	}
