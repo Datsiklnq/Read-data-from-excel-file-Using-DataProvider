@@ -63,8 +63,13 @@ public void validationUrlNumberTwo(){
 	}
 	
 
+<<<<<<< HEAD
 	@DataProvider(name = "FacebookForm" )
 	public Object[][] passDate()  {
+=======
+	@DataProvider(name = "FacebookForm")
+	public Object[][] passData()  {
+>>>>>>> refs/remotes/origin/master
 
 		ExcelDataConfig cfg = new ExcelDataConfig(EXCELPATH);
 		// excel sheet index value
