@@ -11,7 +11,7 @@ Brief Description : Program is about reading data from excel file, Data provider
 -Microsoft Excel file (excel file is included inside the project with the fake data)<br>
 -Change path of excel file </p>
 
-<h3>How program works <h3>
+<h3>How program works: <\h3>
   <p>Imagine  that You have excel file with pretty much amount of data which you have to enter into fields, This Program will help you to      automate your work.  Program reading data form file and also creating new file with results that data was entered into appropriate        fields. Program has function which is responsible of entering data into the fields so, what ever amount of data you have in excel      file program will used this data as a function will call the function as many times as there is data in the excel file
 
   </p>
