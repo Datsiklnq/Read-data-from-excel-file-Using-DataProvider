@@ -5,9 +5,13 @@ How to run this Program :
 What we need to run this Program : 
 
 -Selenium WebDriver 
+
 -TestNg Framework (DataProvider)
+
 -Apache poi POI 4.0.1 
+
 -Microsoft Excel file (excel file is included inside the project with the fake data)
+
 -Change path of excel file 
 
 
