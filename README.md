@@ -5,10 +5,10 @@ Brief Description : Program is about reading data from excel file, Data provider
 <b>
 What we need to run this Program : </b>
 
-<p>-Selenium WebDriver</p> 
-<p>-TestNg Framework (DataProvider)</p>
-<p>-Apache poi POI 4.0.1 </p>
-<p>-Microsoft Excel file (excel file is included inside the project with the fake data)</p>
-<p>-Change path of excel file </p>
+<p>-Selenium WebDriver<br>
+-TestNg Framework (DataProvider)<br>
+-Apache poi POI 4.0.1 <br>
+-Microsoft Excel file (excel file is included inside the project with the fake data)<br>
+-Change path of excel file </p>
 
 
